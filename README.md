@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ShubhVachhani/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/ShubhVachhani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhVachhani/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/ShubhVachhani/DAA/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -153,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShubhVachhani/DAA/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
