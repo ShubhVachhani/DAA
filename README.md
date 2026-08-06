@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShubhVachhani/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ShubhVachhani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShubhVachhani/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
