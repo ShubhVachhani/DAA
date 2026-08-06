@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/ShubhVachhani/DAA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhVachhani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/ShubhVachhani/DAA/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ShubhVachhani/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/ShubhVachhani/DAA/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0427-construct-quad-tree](https://github.com/ShubhVachhani/DAA/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ShubhVachhani/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
