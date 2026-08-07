@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/ShubhVachhani/DAA/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ShubhVachhani/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ShubhVachhani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/ShubhVachhani/DAA/tree/master/1763-longest-nice-substring) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhVachhani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhVachhani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/ShubhVachhani/DAA/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShubhVachhani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/ShubhVachhani/DAA/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ShubhVachhani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ShubhVachhani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ShubhVachhani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/ShubhVachhani/DAA/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ShubhVachhani/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/ShubhVachhani/DAA/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
