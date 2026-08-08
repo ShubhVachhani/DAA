@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShubhVachhani/DAA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ShubhVachhani/DAA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ShubhVachhani/DAA/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhVachhani/DAA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShubhVachhani/DAA/tree/master/0035-search-insert-position) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhVachhani/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShubhVachhani/DAA/tree/master/1382-balance-a-binary-search-tree) |
