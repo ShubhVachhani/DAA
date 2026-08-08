@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShubhVachhani/DAA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ShubhVachhani/DAA/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhVachhani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShubhVachhani/DAA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShubhVachhani/DAA/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/ShubhVachhani/DAA/tree/master/0148-sort-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhVachhani/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
